@@ -272,7 +272,7 @@ Contributions are always welcome!
 
 ### SRE books
 
-- [ ] [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents)
+- [x] [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents)
 - [ ] [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents)
 - [ ] [Seeking SRE](https://books.google.ru/books?id=tmhqDwAAQBAJ)
 - [ ] [Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems)
